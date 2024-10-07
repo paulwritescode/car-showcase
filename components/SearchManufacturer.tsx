@@ -5,7 +5,7 @@ import { Combobox, ComboboxButton, ComboboxInput, ComboboxOption, ComboboxOption
 import Image from 'next/image';
 import { useState, Fragment } from 'react';
 import { manufacturers } from '@/constants';
-import { spawn } from 'child_process';
+
 
 
 
